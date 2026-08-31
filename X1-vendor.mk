@@ -458,7 +458,7 @@ PRODUCT_PACKAGES += \
     libfgauge_gm30 \
     libfile_op \
     libforkexecwrap \
-    libformatter \
+    libformatter_mtk \
     libfsmaudio \
     libged \
     libgf_ca \
@@ -773,7 +773,7 @@ PRODUCT_PACKAGES += \
     libimageio_plat_drv \
     libimageio_plat_pipe \
     liblpcnr \
-    libmnl \
+    libmnl_mtk \
     libmsnr \
     libmtkcam.atmseventmgr \
     libmtkcam.eventcallback \
@@ -1225,7 +1225,7 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libimageio_plat_drv_so \
     vendor_lib64_libimageio_plat_pipe_so \
     vendor_lib64_liblpcnr_so \
-    vendor_lib64_libmnl_so \
+    vendor_lib64_libmnl_mtk_so \
     vendor_lib64_libmsnr_so \
     vendor_lib64_libmtk_drvb_so \
     vendor_lib64_libmtkcam_atmseventmgr_so \
